@@ -1,154 +1,188 @@
  <div align="center">
 
-# 👋 Hey, I'm Shivam Chaudhary
+<img src="assets/shivam-banner.svg" width="100%" alt="Shivam Chaudhary — Developer Profile Banner" />
 
-### `Developer | Python Backend | AI/ML Explorer`
+<br/>
 
-Building projects, learning new technologies, and turning ideas into code.
+### `PYTHON BACKEND` · `AI/ML EXPLORER` · `OPEN SOURCE`
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/shivam8368215871-sys)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivam8368215871@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shivam9311623062)
-
-![Profile Views](https://komarev.com/ghpvc/?username=shivam8368215871-sys&style=flat-square&color=0891b2&label=PROFILE+VIEWS)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/shivam8368215871-sys)
+[![Email](https://img.shields.io/badge/Email-Contact-8BCF8B?style=flat-square&logo=gmail&logoColor=black)](mailto:shivam8368215871@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-8BCF8B?style=flat-square&logo=kaggle&logoColor=black)](https://www.kaggle.com/shivam9311623062)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## `01 / WHO I AM`
 
-- 🔭 **Currently building:** [Yuva Web OS](https://github.com/shivam8368215871-sys/Yuva-OS)
-- 🌱 **Currently learning:** AI/ML, backend development, and data-driven applications
-- 💻 **Backend interests:** Python, FastAPI, PostgreSQL, and REST APIs
-- 🤝 **Open to collaborating on:** [Campus X](https://github.com/rajpandey-dev/campus-x)
-- 📊 **Data toolkit:** Python, NumPy, Pandas, and data analysis
-- 🐧 **Development environment:** Linux and open-source tools
-- 📫 **Reach me:** [shivam8368215871@gmail.com](mailto:shivam8368215871@gmail.com)
+```text
+NAME       Shivam Chaudhary
+LOCATION   India
+FOCUS      Backend Development · AI/ML · Linux
+MINDSET    Learn → Build → Improve
+STATUS     Exploring, experimenting, creating.
+```
 
-> I enjoy exploring how software works, building practical projects, and continuously improving my development skills.
+I'm a developer interested in building practical software, understanding systems from the inside out, and exploring the intersection of backend engineering, data, and AI.
+
+- Currently building **[Yuva Web OS](https://github.com/shivam8368215871-sys/Yuva-OS)**
+- Learning **AI/ML** and backend development with Python
+- Working with **FastAPI, PostgreSQL, and REST APIs**
+- Exploring Linux, open-source software, and UI development
+- Interested in collaborating on **[Campus X](https://github.com/rajpandey-dev/campus-x)**
 
 ---
 
-## 🛠️ Tech Stack
+## `02 / WHAT I DO`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `> BACKEND`
+
+- Python development
+- FastAPI and REST APIs
+- PostgreSQL and SQL
+- Database integration
+
+</td>
+<td width="50%" valign="top">
+
+### `> EXPLORATION`
+
+- AI / Machine Learning
+- Data analysis
+- Linux and open source
+- Interface and OS concepts
+
+</td>
+</tr>
+</table>
+
+---
+
+## `03 / SELECTED PROJECTS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Yuva Web OS
+
+An operating-system-inspired project exploring software interfaces and system concepts.
+
+[**↗ View repository**](https://github.com/shivam8368215871-sys/Yuva-OS)
+
+`PROJECT` · `LINUX` · `UI`
+
+</td>
+<td width="50%" valign="top">
+
+### Campus X
+
+A collaborative application project I'm interested in contributing to and learning from.
+
+[**↗ View repository**](https://github.com/rajpandey-dev/campus-x)
+
+`COLLABORATION` · `APPLICATION`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `04 / CONTRIBUTION MATRIX`
 
 <div align="center">
 
-### Languages
-
-[![Languages](https://skillicons.dev/icons?i=python,js,html,css,c,java&theme=dark)](https://skillicons.dev)
-
-### Backend & Databases
-
-[![Backend](https://skillicons.dev/icons?i=fastapi,django,postgres,mysql,mongodb&theme=dark)](https://skillicons.dev)
-
-### Data Science & AI/ML
-
-[![Data Science](https://skillicons.dev/icons?i=numpy,pandas,sklearn,pytorch&theme=dark)](https://skillicons.dev)
-
-### Tools & Platforms
-
-[![Tools](https://skillicons.dev/icons?i=git,github,linux,docker,postman,vscode,react,figma&theme=dark)](https://skillicons.dev)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam8368215871-sys&bg_color=0d1117&color=8bcf8b&line=8bcf8b&point=c8f7c5&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="100%" alt="GitHub contribution activity graph" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## `05 / GITHUB ANALYTICS`
 
 <div align="center">
 
 <a href="https://github.com/shivam8368215871-sys">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shivam8368215871-sys&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=shivam8368215871-sys&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8bcf8b&icon_color=8bcf8b&text_color=c9d1d9&include_all_commits=true" height="170" alt="GitHub statistics" />
 </a>
+
 <a href="https://github.com/shivam8368215871-sys">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam8368215871-sys&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam8368215871-sys&layout=compact&hide_border=true&bg_color=0d1117&title_color=8bcf8b&text_color=c9d1d9&langs_count=8" height="170" alt="Most used programming languages" />
 </a>
 
 <br/>
 
-<a href="https://streak-stats.demolab.com/?user=shivam8368215871-sys">
-  <img src="https://streak-stats.demolab.com/?user=shivam8368215871-sys&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</a>
+<img src="https://streak-stats.demolab.com?user=shivam8368215871-sys&hide_border=true&background=0D1117&ring=8BCF8B&fire=C8F7C5&currStreakLabel=8BCF8B&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="70%" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## `06 / 3D CONTRIBUTION GRAPH`
 
 <div align="center">
 
-[![Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivam8368215871-sys&theme=tokyo-night&hide_border=true&area=true)](https://github.com/shivam8368215871-sys)
+<img src="profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub contribution graph" />
+
+</div>
+
+> The 3D graph appears after you install and successfully run the GitHub Actions workflow that generates `profile-3d-contrib/profile-green-animate.svg`. Until then, this image may be unavailable.
+
+---
+
+## `07 / TECH STACK`
+
+<div align="center">
+
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,c,java&theme=dark" alt="Programming languages" />
+
+### BACKEND & DATABASES
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,postgres,mysql,mongodb&theme=dark" alt="Backend technologies and databases" />
+
+### DATA & MACHINE LEARNING
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,pytorch&theme=dark" alt="Data science and machine learning tools" />
+
+### TOOLS & PLATFORMS
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vscode,react,figma&theme=dark" alt="Development tools and platforms" />
 
 </div>
 
 ---
 
-## 📦 Repository Overview
+## `08 / BEYOND CODE`
 
-<div align="center">
-
-![Public Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshivam8368215871-sys&query=%24.public_repos&label=Public%20Repositories&style=for-the-badge&logo=github&color=181717)
-
-![Followers](https://img.shields.io/github/followers/shivam8368215871-sys?style=for-the-badge&logo=github&label=Followers&color=0891b2)
-
-![GitHub Stars](https://img.shields.io/github/stars/shivam8368215871-sys?style=for-the-badge&logo=github&label=Stars&color=7c3aed)
-
-[**Explore all my repositories →**](https://github.com/shivam8368215871-sys?tab=repositories)
-
-</div>
+```text
+01  Curious about how operating systems work.
+02  Interested in open-source projects.
+03  Learning by building real applications.
+04  Improving one concept and one project at a time.
+```
 
 ---
 
-## 🌟 Featured Projects
+## `09 / CONNECT`
 
 <div align="center">
 
-<a href="https://github.com/shivam8368215871-sys/Yuva-OS">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=shivam8368215871-sys&repo=Yuva-OS&theme=tokyonight&hide_border=true" alt="Yuva OS repository" />
-</a>
-<a href="https://github.com/rajpandey-dev/campus-x">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajpandey-dev&repo=campus-x&theme=tokyonight&hide_border=true" alt="Campus X repository" />
-</a>
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github)](https://github.com/shivam8368215871-sys)
+[![Email](https://img.shields.io/badge/EMAIL-8BCF8B?style=for-the-badge&logo=gmail&logoColor=black)](mailto:shivam8368215871@gmail.com)
+[![Kaggle](https://img.shields.io/badge/KAGGLE-8BCF8B?style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/shivam9311623062)
 
-</div>
+<br/>
 
-### 💻 Yuva Web OS
+**BUILD SOMETHING MEANINGFUL.**
 
-My operating-system-inspired project, developed through hands-on exploration of software and user interface design.
-
-- Repository: [Yuva-OS](https://github.com/shivam8368215871-sys/Yuva-OS)
-- Focus: operating-system concepts and project development
-
-### 🎓 Campus X
-
-A collaborative project I'm interested in contributing to and learning from.
-
-- Repository: [Campus X](https://github.com/rajpandey-dev/campus-x)
-- Focus: collaboration and application development
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shivam8368215871-sys&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivam8368215871-sys)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivam8368215871@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shivam9311623062)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-
-**Always learning. Always building. One commit at a time.** 🚀
+`[ END OF README ]`
 
 </div>
