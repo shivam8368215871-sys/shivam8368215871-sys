@@ -128,7 +128,7 @@ A collaborative application project I'm interested in contributing to and learni
 
 <div align="center">
 
-<img src="profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub contribution graph" />
+<img src="https://raw.githubusercontent.com/shivam8368215871-sys/shivam8368215871-sys/output/profile-green-animate.svg" width="100%" alt="3D GitHub contribution graph" />
 
 </div>
 
