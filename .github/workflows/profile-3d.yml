@@ -1,3 +1,4 @@
+
 name: Generate 3D Contribution Graph
 
 on:
@@ -20,6 +21,7 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publish graph
         uses: crazy-max/ghaction-github-pages@v4
@@ -28,3 +30,4 @@ jobs:
           build_dir: profile-3d-contrib
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
